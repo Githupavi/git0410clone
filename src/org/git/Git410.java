@@ -16,6 +16,9 @@ public class Git410 {
 			System.out.println("Employee DOB is 10-6-1998");
 
 		}
+		private void empno() {
+			System.out.println("123");
+		}
 		private void empPhone() {
 		 	System.out.println("Employee Phone no is 9786092819");
 
