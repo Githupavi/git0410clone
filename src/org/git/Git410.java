@@ -14,11 +14,21 @@ public class Git410 {
 		}
 		private void empDob() {
 			System.out.println("Employee DOB is 10-6-1998");
-
+}
+		private void empExperience() {
+			System.out.println("i have 2 year of experience");
 		}
 		private void empno() {
 			System.out.println("123");
 		}
+		
+/*<<<<<<< HEAD
+		
+=======
+		
+>>>>>>> f78d3dfeae7c1d8cbcbd67f496d0ee8d9191de57*/
+		
+		
 		private void empPhone() {
 		 	System.out.println("Employee Phone no is 9786092819");
 
