@@ -14,8 +14,7 @@ public class Git410 {
 		}
 		private void empDob() {
 			System.out.println("Employee DOB is 10-6-1998");
-
-		}
+}
 		private void empExperience() {
 			System.out.println("i have 2 year of experience");
 		}
